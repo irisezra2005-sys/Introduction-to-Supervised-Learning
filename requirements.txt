@@ -1,0 +1,6 @@
+Required Libraries and Tools
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
