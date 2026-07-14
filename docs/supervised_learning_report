@@ -1,0 +1,40 @@
+# Supervised Learning Report
+
+## Project Overview
+This project demonstrates the implementation of supervised learning algorithms using Python and Scikit-learn. The objective is to understand regression and classification techniques by training and evaluating different machine learning models.
+
+## Algorithms Implemented
+
+###  1. Linear Regression
+- Dataset: California Housing Dataset
+- Task: Regression
+- Evaluation Metrics:
+  - Mean Squared Error (MSE)
+  - R² Score
+
+###  2. Logistic Regression
+- Dataset: Iris Dataset
+- Task: Classification
+- Evaluation Metrics:
+  - Accuracy
+  - Precision
+  - Recall
+  - Confusion Matrix
+
+###  3. Decision Tree Classifier
+- Dataset: Iris Dataset
+- Task: Classification
+- Evaluation Metrics:
+  - Accuracy
+  - Precision
+  - Recall
+  - Confusion Matrix
+
+## Results
+- Linear Regression successfully predicted continuous house prices using the California Housing dataset.
+- Logistic Regression achieved high classification accuracy on the Iris dataset.
+- Decision Tree Classifier also performed effectively and was compared with Logistic Regression using standard evaluation metrics.
+
+## Conclusion
+This project provided practical experience with supervised learning algorithms. Linear Regression was used for predicting continuous values, while Logistic Regression and Decision Tree were used for 
+classification tasks. Model performance was evaluated using appropriate metrics, demonstrating the strengths of each algorithm for different machine learning problems.
